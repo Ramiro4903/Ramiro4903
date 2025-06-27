@@ -19,7 +19,7 @@
 - :computer: I’ve worked on projects usin  `PHP` `JavaScript` `HTML` `SQL` and more.
 - :student: I’m currently improving my `English` skills to move from an intermediate to an advanced level.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
