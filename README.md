@@ -49,7 +49,7 @@
 
 
 
-[![Known technologies](https://skillicons.dev/icons?i=js,html,css,c,cpp,electron,react,php,py,r)](https://skillicons.dev)
+[![Known technologies](https://skillicons.dev/icons?i=js,html,css,postgres,c,cpp,electron,react,php,py,r)](https://skillicons.dev)
 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
